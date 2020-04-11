@@ -1,0 +1,11 @@
+logo.png Icono hechos por Freepik, obtenido desde www.flaticon.com
+( https://www.flaticon.com/free-icon/direction_592251#term=map%20north&page=1&position=11 )
+
+mapaU.png desde www.uninorte.edu.co
+(https://www.uninorte.edu.co/web/telescopi/mapa)
+
+limpiar.png y limpiarColor.png Iconos hechos por Freepik, obtenido desde www.flaticon.com
+( https://www.flaticon.com/free-icon/rubbish-bin_64022#term=delete&page=1&position=4 ) 
+
+vis.png y visColor.png Iconos hechos por Freepik, obtenido desde www.flaticon.com
+( https://www.flaticon.com/free-icon/team_476700 ) ( https://www.flaticon.com/free-icon/team_476863 )
